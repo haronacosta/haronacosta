@@ -20,7 +20,6 @@ Aquí tienes algunas de las tecnologías con las que trabajo:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haronacosta/)
 [![Sitio web](https://img.shields.io/badge/Portfolio-262626?style=for-the-badge&logo=About.me&logoColor=white)](https://www.linkedin.com/in/haronacosta/)
-[![Correo electrónico](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: haronacosta@proton.me)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/haronacostav)
 
 <!---
